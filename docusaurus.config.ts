@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AndyLevesque/WikiTest/tree/main/OpenOrdoWiki',
+            'https://github.com/AndyLevesque/WikiTest/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -56,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AndyLevesque/WikiTest/tree/main/OpenOrdoWiki',
+            'https://github.com/AndyLevesque/WikiTest/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
