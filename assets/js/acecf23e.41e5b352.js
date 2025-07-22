@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_ordo_wiki=self.webpackChunkopen_ordo_wiki||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/WikiTest/blog","blogTitle":"Blog","authorsListPath":"/WikiTest/blog/authors"}')}}]);

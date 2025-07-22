@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_ordo_wiki=self.webpackChunkopen_ordo_wiki||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

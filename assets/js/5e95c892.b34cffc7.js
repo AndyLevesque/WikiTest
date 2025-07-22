@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_ordo_wiki=self.webpackChunkopen_ordo_wiki||[]).push([[9647],{7121:(e,r,s)=>{s.r(r),s.d(r,{default:()=>d});s(6540);var o=s(4164),n=s(7559),u=s(5500),a=s(2831),c=s(1656),i=s(4848);function d(e){return(0,i.jsx)(u.e3,{className:(0,o.A)(n.G.wrapper.docsPages),children:(0,i.jsx)(c.A,{children:(0,a.v)(e.route.routes)})})}}}]);
